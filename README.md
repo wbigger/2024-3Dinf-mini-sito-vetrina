@@ -5,5 +5,7 @@ Progetto sistemi e reti 2024
 
 [Valerio Conti](https://rainyunnr.github.io/Alterra-Shop-2024/)
 
+[Samuele Brizi](https://samuelebrizze.github.io/card/)
+
 [Yaroslav Yuzvak](https://xsugl.github.io/sitoScuolaBrawlStarsShop3dinf/)
 
