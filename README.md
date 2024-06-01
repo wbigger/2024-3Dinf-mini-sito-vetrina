@@ -15,3 +15,4 @@ Progetto sistemi e reti 2024
 
 [Yaroslav Yuzvak](https://xsugl.github.io/sitoScuolaBrawlStarsShop3dinf/)
 
+[Massimiliano Donati](https://maximus070.github.io/mini-sito-vetrina/)
